@@ -1,0 +1,11 @@
+﻿{
+  "AppSettings": {
+    "SiteTitle": "InsView - Get infor from INS"
+  },
+  "Auth0": {
+    "ClientId": "{cirl6ZPrQ831bJcg3lLcxAyI7Z3CCthE}",
+    "ClientSecret": "{eMq2lPKjjIDt8SzX_nmvXsHcLmO4CBRHICYWNyrD-Fh4E4r-f90GVyQ_gKyT4-BP}",
+    "Domain": "{sonat.eu.auth0.com}",
+    "RedirectUri": "http://localhost:8449/"
+  }
+}
